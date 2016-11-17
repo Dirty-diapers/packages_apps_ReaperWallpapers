@@ -13,7 +13,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string-array name="partner_wallpapers" translatable="false">
-        <item>reaper-dark</item>
+        <item>reaper_dark</item>
         <item>slim_dark_fadingpurple</item>
         <item>slim_dark_greenyellow</item>
         <item>slim_light_blue</item>
