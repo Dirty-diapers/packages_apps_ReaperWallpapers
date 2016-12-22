@@ -14,5 +14,21 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string-array name="partner_wallpapers" translatable="false">
         <item>reaper_dark</item>
+        <item>bran1</item>
+        <item>bran2</item>
+        <item>bran3</item>
+        <item>bran4</item>
+        <item>bran5</item>
+        <item>bran6</item>
+        <item>bran7</item>
+        <item>bran8</item>
+        <item>bran9</item>
+        <item>bran10</item>
+        <item>bran11</item>
+        <item>bran12</item>
+        <item>bran13</item>
+        <item>bran14</item>
+        <item>bran15</item>
+        <item>bran16</item>
     </string-array>
 </resources>
